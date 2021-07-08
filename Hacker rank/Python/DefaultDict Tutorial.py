@@ -61,22 +61,23 @@ Explanation
 'a' appeared  times in positions ,  and .
 'b' appeared  times in positions  and .
 In the sample problem, if 'c' also appeared in word group , you would print .
-solution:
-___________________________________________________________________________________________________
+
+___________________________________________________________________________________________
+Solution 
 from collections import defaultdict
 d = defaultdict(list)
 list1=[]
 
-n, m = map(int,input().split())
+n, m = map(int,raw_input().split())
 
 for i in range(0,n):
-    d[input()].append(i+1) 
+    d[raw_input()].append(i+1) 
 
 for i in range(0,m):
-    list1=list1+[input()]  
+    list1=list1+[raw_input()]  
 
 for i in list1: 
     if i in d:
-        print(" ".join( map(str,d[i]) ))
+        print " ".join( map(str,d[i]) )
     else:
-        print(-1)
+        print -1
