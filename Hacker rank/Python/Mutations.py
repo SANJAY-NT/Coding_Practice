@@ -53,6 +53,7 @@ Input Format
 The first line contains a string, .
 The next line contains an integer , the index location and a string , separated by a space.
 
+
 Sample Input
 
 STDIN           Function
