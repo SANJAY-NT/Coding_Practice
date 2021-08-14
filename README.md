@@ -3,10 +3,6 @@
      <img src="https://profile-counter.glitch.me/{sanjay-nt}/count.svg"  alt="counter"/>
 </p>-->
                                                                            
-
-### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
-
-
 </br>
 
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
