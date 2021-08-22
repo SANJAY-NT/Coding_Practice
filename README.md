@@ -1,8 +1,4 @@
-# Coding_Practice
-<!--<p align="center">
-     <img src="https://profile-counter.glitch.me/{sanjay-nt}/count.svg"  alt="counter"/>
-</p>-->
-                                                                           
+# Coding_Practice                                                                      
 </br>
 
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
