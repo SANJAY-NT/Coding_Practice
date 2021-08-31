@@ -7,9 +7,9 @@
   <a href="https://github.com/sanjay-nt/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-nt&count_private=true&theme=dark&hide_border=true&background=0D1110&stroke=0000"/>
   </a>
-
+  
+  
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=sanjay-nt&row=2&column=4&margin-w=8&margin-h=8&theme=gruvbox&count_private=true"/>
