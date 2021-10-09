@@ -37,18 +37,21 @@ Sample Output
 125
 ______________________________________________________
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int a = scan.nextInt();
-        // Complete this line
-        // Complete this line
+        int i = scan.nextInt();
 
-        System.out.println(a);
-        // Complete this line
-        // Complete this line
+        // Write your code here.
+        double d = scan.nextDouble();
+        String s1 = scan.nextLine();
+        String s = scan.nextLine();
+        System.out.println("String: " + s);
+        System.out.println("Double: " + d);
+        System.out.println("Int: " + i);
     }
 }
+
