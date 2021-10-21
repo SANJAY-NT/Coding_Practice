@@ -21,6 +21,7 @@ Sample Output
 2 I am a file
 3 Read me until end-of-file.
 ________________________________________________________
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
