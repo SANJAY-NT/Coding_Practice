@@ -8,7 +8,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-nt&count_private=true&theme=dark&hide_border=true&background=0D1110&stroke=0000"/>
   </a>
   
-  
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
