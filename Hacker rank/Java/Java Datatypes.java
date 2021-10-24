@@ -54,7 +54,7 @@ Explanation
  can be stored in a short, an int, or a long.
 
  is very large and is outside of the allowable range of values for the primitive data types discussed in this problem.
-   ______________________________________________________________________________
+  ______________________________________________________________________________
    import java.util.*;
 import java.io.*;
 
