@@ -65,3 +65,4 @@ arr = list(map(int,input().strip().split(' ')))
 arr = np.array(arr)
 #print(arr)
 print(np.reshape(arr,(3,3)))
+
