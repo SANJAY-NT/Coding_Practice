@@ -1,6 +1,5 @@
 # Coding_Practice                                                                      
 </br>
-
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
   <a href="https://github.com//github-readme-streak-stats">
