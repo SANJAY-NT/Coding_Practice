@@ -25,4 +25,4 @@
 <p align="center">
 <img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=sanjay-nt&theme=react-dark&count_private=true" alt="sanjay-nt" />
 </p>
-_____________________________________________________________________________________________________
+________________________________________________________________________________________________
