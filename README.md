@@ -21,6 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-nt&theme=gotham&layout=compact&count_private=true" alt="sanjay-nt" />
 </p>
 
+ 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanjay-nt&show_icons=true&theme=gotham&count_private=true" alt="sanjay-nt" />
 </p>
