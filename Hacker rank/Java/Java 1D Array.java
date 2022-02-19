@@ -14,7 +14,6 @@ The code above prints the value stored at index  of , which is  (the value we pr
 Task
 
 The code in your editor does the following:
-
 Reads an integer from stdin and saves it to a variable, , denoting some number of integers.
 Reads  integers corresponding to  from stdin and saves each integer  to a variable, .
 Attempts to print each element of an array of integers named .
